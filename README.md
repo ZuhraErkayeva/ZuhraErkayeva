@@ -32,7 +32,7 @@
 
 <div style="display: flex; justify-content: space-between;">
   <div>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ZuhraEkayeva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="zuhra"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ZuhraErkayeva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="zuhra"/>
   </div>
   <div>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZuhraErkayeva&theme=blue-green" alt="zuhra" />
