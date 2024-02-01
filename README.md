@@ -4,7 +4,7 @@
 
 ## Hi there 👋 I'm a Frontend Developer
 
-<a href="">
+<a href="https://www.linkedin.com/in/zuhra-erkayeva/">
   <img align="left" alt="LinkedIN" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" />
 </a>
 
