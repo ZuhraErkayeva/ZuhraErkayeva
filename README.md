@@ -48,5 +48,5 @@
 [//]: # (<p align="left"> <img src="https://komarev.com/ghpvc/?username=ZuhraErkayeva&label=Profile%20views&color=0e75b6&style=flat" alt="zuhra" /> </p>)
 
 
-[//]: # (![C]&#40;https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&#41;)
+[//]: # (![C]&#40;https://static.vecteezy.com/system/resources/previews/010/826/553/non_2x/girl-with-a-laptop-in-her-hand-the-concept-of-a-child-programmer-illustration-vector.jpg)
 
