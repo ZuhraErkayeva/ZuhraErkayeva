@@ -12,7 +12,7 @@
 
 ## Technology stack
 
-<img align="right" alt="GIF" src="https://cdn-edge.kwork.ru/pics/t3/55/24316054-63a86fcf8a427.jpg" width="500" height="320" />
+<img align="right" alt="GIF" src="https://static.vecteezy.com/system/resources/previews/010/826/553/non_2x/girl-with-a-laptop-in-her-hand-the-concept-of-a-child-programmer-illustration-vector.jpg" width="500" height="320" />
 
 **Front-End**
 
