@@ -14,7 +14,7 @@
 
 ## Technology stack
 
-  <img align="left" src="(https://www.pinterest.com/pin/1027383733746501078/)" />
+  <img align="left" src="(https://www.pinterest.com/pin/1027383733746501078/)" alt="ZuhraErkayeva" />
 
 **Back-End**
 
