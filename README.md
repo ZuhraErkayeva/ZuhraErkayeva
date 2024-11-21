@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="name.svg" alt="Zuhra"/>
+  <img src="#" alt="Zuhra"/>
 </h1>
 
 ## Hi there 👋 I'm a Python developer
