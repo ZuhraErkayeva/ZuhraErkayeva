@@ -14,7 +14,7 @@
 
 ## Technology stack
 
-  <img align="left" src="![image](https://github.com/user-attachments/assets/edf862c7-7af9-4926-a127-ec6c86018380)" />
+  <img align="left" src="(https://www.pinterest.com/pin/1027383733746501078/)" />
 
 **Back-End**
 
