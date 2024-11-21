@@ -14,6 +14,8 @@
 
 ## Technology stack
 
+  <img align="left" src="![image](https://github.com/user-attachments/assets/edf862c7-7af9-4926-a127-ec6c86018380)" />
+
 **Back-End**
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
