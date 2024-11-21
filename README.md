@@ -14,8 +14,6 @@
 
 ## Technology stack
 
-<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif" width="500" height="320" />
-
 **Back-End**
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
@@ -41,6 +39,15 @@
 
 ## Stats
 
+
+<div style="display: flex; justify-content: space-between;">
+  <div>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ZuhraErkayeva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="ZuhraErkayeva"/>
+  </div>
+  <div>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZuhraErkayeva&theme=blue-green" alt="ZuhraErkayeva" />
+  </div>
+</div>
 
 [//]: # (<p align="left"> <img src="https://komarev.com/ghpvc/?username=ZuhraErkayeva&label=Profile%20views&color=0e75b6&style=flat" alt="ZuhraErkayeva" /> </p>)
 
