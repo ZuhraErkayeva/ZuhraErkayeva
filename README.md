@@ -14,7 +14,7 @@
 
 ## Technology stack
 
-  <img align="left" src="https://i.pinimg.com/736x/5d/20/58/5d2058b5c9458041f4c86f96a3bca9b1.jpg" />
+  <img align="left" src="https://i.pinimg.com/736x/5d/20/58/5d2058b5c9458041f4c86f96a3bca9b1.jpg" width="500" height="320" />
 
 **Back-End**
 
