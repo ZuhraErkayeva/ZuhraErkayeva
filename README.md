@@ -57,13 +57,12 @@
 <br>
 <br>
 
-  [//]: # (![C]&#40;https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&#41;)
+  [//]: # (![C]&#40;https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&#41;)<br>
   
 <br>
-<br>
-<br>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ZuhraErkayeva&theme=onestar&row=1&margin-w=15&margin-h=15&no-bg=true" alt="ZuhraErkayeva" /></a> </p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ZuhraErkayeva&theme=onestar&row=1&margin-w=15&margin-h=15&no-bg=true" alt="ZuhraErkayeva" /></a></p>
 
 
 
