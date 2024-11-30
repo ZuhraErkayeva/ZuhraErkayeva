@@ -56,4 +56,4 @@
 
 [//]: # (![C]&#40;https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&#41;)
 
-https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=radical
+<p align="center"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=radical"><img src="https://komarev.com/ghpvc/?username=ZuhraErkayeva&label=Profile%20views&color=0e75b6&style=flat" alt="ZuhraErkayeva" /></a></p>
