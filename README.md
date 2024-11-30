@@ -56,4 +56,4 @@
 
 [//]: # (![C]&#40;https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&#41;)
 
-
+https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=radical
